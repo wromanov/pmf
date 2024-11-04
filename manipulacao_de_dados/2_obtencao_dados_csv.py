@@ -22,8 +22,6 @@ Nesses casos usamos diversos argumentos que auxiliam na leitura dos dados
 petr_profit = pd.read_csv('../dados/PETR4_PROFIT.txt', sep=';', decimal=',')
 
 
-
-
 # Exibir as primeiras 5 linhas
 print('Exibir as primeiras 5 linhas', '\n', data.head())
 
